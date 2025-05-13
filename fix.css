@@ -1,0 +1,14 @@
+/* Force display of ticker components */
+.hidden-1srjmax, 
+.hidden-e9765v, 
+.hidden-72rtr7, 
+.hidden-ahqa5a {
+  display: block !important;
+  opacity: 1 !important;
+}
+
+/* Force ticker to be visible */
+.framer-vqg3br-container {
+  opacity: 1 !important;
+  transform: none !important;
+}
