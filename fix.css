@@ -6,9 +6,3 @@
   display: block !important;
   opacity: 1 !important;
 }
-
-/* Force ticker to be visible */
-.framer-vqg3br-container {
-  opacity: 1 !important;
-  transform: none !important;
-}
